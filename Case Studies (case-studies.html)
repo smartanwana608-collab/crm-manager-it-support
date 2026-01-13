@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Case Studies</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>…same nav…</header>
+
+<section class="section">
+  <h1>Case Studies</h1>
+
+  <div class="cards">
+    <div class="card">
+      <div class="placeholder">Screenshot placeholder</div>
+      <h3>Lofty CRM Setup</h3>
+      <p>Buyer & seller pipelines, automation, IDX setup.</p>
+    </div>
+
+    <div class="card">
+      <div class="placeholder">Screenshot placeholder</div>
+      <h3>GoHighLevel Automation</h3>
+      <p>Workflows, SMS/email, Zapier integrations.</p>
+    </div>
+
+    <div class="card">
+      <div class="placeholder">Screenshot placeholder</div>
+      <h3>IT Support & Systems</h3>
+      <p>Email delivery, DNS, troubleshooting, integrations.</p>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>

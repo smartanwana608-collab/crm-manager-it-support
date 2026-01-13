@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>…same nav…</header>
+
+<section class="section">
+  <h1>About Me</h1>
+  <p>
+    I work as a CRM Manager with strong IT support experience,
+    helping real estate professionals and businesses simplify systems
+    and improve follow-up.
+  </p>
+</section>
+
+</body>
+</html>

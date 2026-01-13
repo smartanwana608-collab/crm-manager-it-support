@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CV</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>…same nav…</header>
+
+<section class="section">
+  <h1>Professional Summary</h1>
+  <p>
+    CRM Manager (Primary) | IT Support Specialist (Secondary)
+  </p>
+
+  <h3>Platforms</h3>
+  <p>
+    Lofty, BoldTrail (KVCore), GoHighLevel, HubSpot, Zapier,
+    MyRealPage, Google Workspace, AWS
+  </p>
+</section>
+
+</body>
+</html>

@@ -1,84 +1,90 @@
-👋 Hi, I’m Smart Anwana
+# CRM Manager & IT Support Specialist
 
-CRM Manager | IT Support Specialist
+I specialize in setting up, fixing, and optimizing CRM systems that are easy to use, reliable, and scalable.
 
-I help businesses design, set up, and maintain clean, reliable CRM systems that actually get used — not overcomplicated tools that break after setup.
+My work focuses on helping businesses turn disconnected tools into clear, automated systems that support daily operations, lead management, and long-term growth.
 
-I specialize in building CRMs that are easy to use, scalable, and maintainable, with clear workflows and automation that support real business operations.
+---
 
-⸻
+## What I Do
 
-🔧 What I Do
+### CRM Management (Primary)
+- CRM setup, cleanup, and optimization
+- Buyer & seller pipelines
+- Lead routing and lifecycle management
+- Email and SMS campaign setup
+- Automation workflows and long-term nurturing
+- CRM troubleshooting and performance improvement
 
-Core Services
-	•	CRM Setup & Automation
-	•	Lead Pipelines & Workflow Design
-	•	Email & SMS Campaign Setup
-	•	CRM Cleanup, Optimization & Migration
-	•	Ongoing CRM Support & Maintenance
+### IT Support & Systems (Secondary)
+- System integration and troubleshooting
+- Email delivery and authentication (SPF, DKIM, DMARC)
+- Domain and DNS configuration
+- Website, form, and chatbot troubleshooting
+- Zapier and third-party integrations
+- Data imports, mapping, and cleanup
+- Ongoing technical support and maintenance
 
-I work on both fixed-price implementations and ongoing support retainers, depending on client needs.
+---
 
-⸻
+## Platforms & Tools
 
-Tools & Platforms I Work With
+- Lofty  
+- GoHighLevel  
+- HubSpot  
+- BoldTrail (KVCore)  
+- Zapier  
+- MyRealPage  
+- Google Workspace  
+- AWS (support-level usage)  
+- Domains, DNS, email systems  
 
-CRMs & Real Estate Platforms
-	•	Lofty
-	•	BoldTrail (KVCore)
-	•	HubSpot
-	•	GoHighLevel
-	•	MyRealPage
+---
 
-Automation & Integrations
-	•	Zapier
+## Industries I Work With
 
-IT & Infrastructure
-	•	Google Workspace (Admin, email, permissions, security)
-	•	AWS (SES, basic infrastructure & email delivery support)
+- Real estate agents & brokerages
+- Small businesses
+- Startups
+- Coaches & consultants
+- Founders and executives
 
-⸻
+---
 
-Who I Work With
-	•	Real Estate Agents & Brokerages
-	•	Small Businesses
-	•	Startups
-	•	Coaches & Consultants
-	•	CEOs & Founders
+## How I Work
 
-Whether you’re starting from scratch or fixing a messy system, I focus on practical setups that support daily operations.
+I focus on clarity and reliability over complexity.
 
-⸻
+My goal is to build systems that:
+- Reduce manual work
+- Improve response time
+- Make lead status easy to understand
+- Are actually used day-to-day
 
-How I Work
-	•	Systems-first thinking (not tool-first)
-	•	Clear pipelines and documentation
-	•	Automation only where it adds value
-	•	Long-term maintainability over short-term hacks
+I prioritize practical solutions that align with how teams really work.
 
-“I specialize in setting up CRMs that are easy to use and maintain.”
+---
 
-⸻
+## Case Studies
 
-What You’ll Find in This Repository (Growing)
+This repository includes real-world case studies covering:
 
-This repository will include:
-	•	CRM setup documentation
-	•	Workflow & pipeline examples
-	•	Automation logic (email/SMS flows)
-	•	Case studies (sanitized & demo-based)
-	•	Sample CRM configurations
-	•	IT support & system setup notes
+- CRM setup and optimization
+- Automation and workflows
+- System integrations
+- Email and domain configuration
+- Troubleshooting and technical support
 
-⸻
+Each case study documents the problem, approach, and outcome.
 
-What’s Coming Next
-	•	Demo CRM projects
-	•	Real-world case studies
-	•	Reusable CRM templates
-	•	Live portfolio site (Vercel)
+---
 
-⸻
+## Availability
 
-📩 Interested in working together?
-This repository represents how I think, build, and maintain systems — not just tools.
+I work on:
+- Fixed-price CRM setup projects
+- System cleanup and optimization
+- Ongoing CRM and IT support
+- Automation and integration work
+
+If you’re looking for someone who understands both **CRM logic** and **technical systems**, this portfolio shows how I work.
